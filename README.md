@@ -3,7 +3,7 @@
 </div>
 
 
-** I'm a Software Developer**
+### I'm a Software Developer
 
 
 - 🔭 I’m currently working on flutter project
