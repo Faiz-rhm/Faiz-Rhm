@@ -2,7 +2,9 @@
 <h1 align="center">Hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Faizal Rahman</h1>
 </div>
 
-# I'm a Software Developer
+
+** I'm a Software Developer**
+
 
 - 🔭 I’m currently working on flutter project
 - 🌱 I’m currently learning everything about dart and flutter
