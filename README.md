@@ -9,5 +9,7 @@
 - 🔭 I’m currently working on flutter project
 - 👯 I’m looking forward to collaborate on open source projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 💬 Ask me about anything, I am happy to help
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-rhm/), [Twitter](https://twitter.com/faiz_rhm) and [Instagram](https://www.instagram.com/faiz.rhm/)
+- 💬 Ask me about Flutter/Dart, I am happy to help
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-rhm/) - [Twitter](https://twitter.com/faiz_rhm) - [Instagram](https://www.instagram.com/faiz.rhm/)
+
+Let's keep in touch.
