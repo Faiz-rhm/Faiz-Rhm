@@ -1,4 +1,4 @@
-### Hello there 👋,  I'm Faizal Rahman
+### Hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">  I'm Faizal Rahman
 
 
 I'm a Software Developer
