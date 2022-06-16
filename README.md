@@ -10,4 +10,3 @@ I'm a Software Developer
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 💬 Ask me about anything, I am happy to help
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-rhm/), [Twitter](https://twitter.com/faiz_rhm) and [Instagram](https://www.instagram.com/faiz.rhm/)
--->
