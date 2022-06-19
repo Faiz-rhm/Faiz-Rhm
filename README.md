@@ -15,5 +15,5 @@
 Let's keep in touch.
 
 <p align="center">
-  <img src="https://github.com/Faiz-Rhm/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/Faiz-Rhm/Faiz-Rhm/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
