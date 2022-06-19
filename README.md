@@ -13,3 +13,7 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-rhm/) - [Twitter](https://twitter.com/faiz_rhm) - [Instagram](https://www.instagram.com/faiz.rhm/)
 
 Let's keep in touch.
+
+<p align="center">
+  <img src="https://github.com/{GITHUB_USER_NAME}}/{GITHUB_USER_NAME}/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
