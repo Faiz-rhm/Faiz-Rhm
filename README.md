@@ -6,9 +6,9 @@
 ### I'm a Software Developer
 
 
-- 🔭 I’m currently working on flutter project
+- 🔭 I’m currently working on flutter projects
 - 🕺 I’m looking forward to collaborate on open source projects.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: Learn more technologies - Never stop learning & creating new ideas.
 - 💬 Ask me about Flutter/Dart, I am happy to help
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-rhm/) - [Twitter](https://twitter.com/faiz_rhm) - [Instagram](https://www.instagram.com/faiz.rhm/) - [Youtube](https://www.youtube.com/@FaizRhm)
 
