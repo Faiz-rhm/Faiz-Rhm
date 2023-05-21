@@ -3,13 +3,14 @@
 </div>
 
 
-### I'm a Software Developer
+### I'm a Mobile Developer
 
 
-- 🔭 I’m currently working on flutter projects
+- 🔭 I’m currently working on flutter.
 - 🕺 I’m looking forward to collaborate on open source projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop learning & creating new ideas.
-- 💬 Ask me about Flutter/Dart, I am happy to help
+- 💬 Ask me about Flutter/Dart, I am happy to help.
+
 
 Let's keep in touch.
 
