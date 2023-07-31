@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi there👋, I'm Faiz Rhm</h1>
 <h3 align="center">Mobile Developer Enthusiast</h3>
 
@@ -12,8 +11,6 @@
 - 💬 Ask me about **Flutter,**
 
 - 📫 How to reach me **faiz199011@gmail.com**
-
-- ⚡ Fun fact **Developers aren't funny!!**
 
 
 <h3 align="left">Connect with me:</h3>
