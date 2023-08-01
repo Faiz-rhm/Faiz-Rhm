@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/faiz_rhm" target="blank"><img src="https://img.shields.io/twitter/follow/faiz_rhm?logo=twitter&style=for-the-badge" alt="faiz_rhm" /></a> </p>
 
-- 🌱 I’m currently learning **to remove software chaos, one at a time.**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
