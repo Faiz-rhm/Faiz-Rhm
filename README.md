@@ -19,6 +19,7 @@
 <a href="https://www.linkedin.com/in/faiz-rhm/" target="blank" style="margin-left:15px"><img align="center" src="https://github.com/Faiz-rhm/Faiz-Rhm/assets/14290499/2b637d89-d892-4417-9a2f-ef799ed9e75e" alt="starc007" height="40" width="40"></a>
 <a href="https://www.instagram.com/faiz.rhm/" target="blank" style="margin-left:15px"><img align="center" src="https://github.com/Faiz-rhm/Faiz-Rhm/assets/14290499/fa571070-f3a5-4b67-b913-61b7ae19abc8" alt="starc007" height="40" width="40"></a>
 <a href="https://www.instagram.com/faiz.rhm/" target="blank" style="margin-left:15px"><img align="center" src="https://github.com/Faiz-rhm/Faiz-Rhm/assets/14290499/2e6ffb8b-6e61-4d80-b260-ddcd0d8a1e78" alt="starc007" height="40" width="40"></a>
+<a href="https://www.instagram.com/faiz.rhm/" target="blank" style="margin-left:15px"><img align="center" src="https://github.com/Faiz-rhm/Faiz-Rhm/assets/14290499/43822d30-a439-4e9d-9eed-23202558f4f6" alt="starc007" height="40" width="40"></a>
 </p>
 
 <!-- <h3 align="left">Support:</h3>
