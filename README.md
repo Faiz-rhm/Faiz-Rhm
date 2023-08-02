@@ -4,13 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/faiz_rhm" target="blank"><img src="https://img.shields.io/twitter/follow/faiz_rhm?logo=twitter&style=for-the-badge" alt="faiz_rhm" /></a> </p>
 
-🔭 I’m currently working on TakeIn, The Flutter Way
-
-🌱 I’m currently learning Flutter, SwiftUI
-
-👯 I’m looking to collaborate with other content creators
-
-
 - 🔭 I’m currently working on **Flutter**
   
 - 🌱 I’m currently learning **Flutter**
