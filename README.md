@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Faiz Rhm</h1>
-<h3 align="center">Mobile Developer Enthusiast</h3>
+<h3 align="center">Mobile Enginner Enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/faiz_rhm" target="blank"><img src="https://img.shields.io/twitter/follow/faiz_rhm?logo=twitter&style=for-the-badge" alt="faiz_rhm" /></a> </p>
 
