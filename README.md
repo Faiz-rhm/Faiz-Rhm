@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items:center">
-<a href="https://twitter.com/faiz_rhm/" target="blank" style="margin-left:20px"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-color-icon.png" alt="Faiz-Rhm" height="40" width="40"></a>
+<a href="https://twitter.com/faiz_rhm/" target="blank" style="margin-left:20px"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="Faiz-Rhm" height="40" width="40"></a>
 <a href="https://www.linkedin.com/in/faiz-rhm/" target="blank" style="margin-left:20px"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-color-icon.png" alt="Faiz-Rhm" height="40" width="40"></a>
 <a href="https://www.instagram.com/faiz.rhm/" target="blank" style="margin-left:20px"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-color-icon.png" alt="Faiz-Rhm" height="40" width="40"></a>
 <a href="https://medium.com/@Faiz_Rhm" target="blank" style="margin-left:20px"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-square-icon.png" alt="Faiz-Rhm" height="40" width="40"></a>
