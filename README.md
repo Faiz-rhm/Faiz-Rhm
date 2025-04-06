@@ -15,6 +15,7 @@
 - 🌱 Always learning and exploring **modern mobile technologies**
 - 🤝 I’m open to **collaboration** on innovative mobile projects
 - 💬 Ask me about **Flutter, Firebase, REST APIs, OpenAI Integration**
+- 🌐 Portfolio: [faizrhm.dev](https://faizrhm.dev/)
 - 📫 Reach me at **faiz199011@gmail.com**
 
 ---
@@ -22,6 +23,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://faizrhm.dev/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/website-icon.png" alt="Website" height="40" width="40"></a>
   <a href="https://twitter.com/faiz_rhm" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="Twitter" height="40" width="40"></a>
   <a href="https://www.linkedin.com/in/faiz-rhm/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-color-icon.png" alt="LinkedIn" height="40" width="40"></a>
   <a href="https://www.instagram.com/faiz.rhm/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-color-icon.png" alt="Instagram" height="40" width="40"></a>
