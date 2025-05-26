@@ -1,11 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Faiz Rahman</h1>
-<h3 align="center">🚀 Passionate Mobile Engineer | Flutter Enthusiast</h3>
-
-<p align="center">
-  <a href="https://twitter.com/faiz_rhm" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/faiz_rhm?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Faiz Rahman 👋🏾 👨‍💻</h1>
 
 ---
 
