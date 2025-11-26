@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Faiz Rahman 👋🏾 👨‍💻</h1>
+<h1 align="left">Hi, I'm Faizal Rahman 👋🏾 👨‍💻</h1>
 
 ### 👨‍💻 About Me
 
