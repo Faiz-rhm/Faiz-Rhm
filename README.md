@@ -4,7 +4,7 @@
 
 - 🔭 Building **Hamsaya** – social investment app
 - 🚀 Built jobs.af (10k+ DAU), weena.af, Wagey
-- 📱 8+ years Flutter & React Native
+- 📱 Flutter & React Native
 - 🌐 Portfolio: [faizrhm.dev](https://faizrhm.dev/)
 - 📫 faiz199011@gmail.com
 
