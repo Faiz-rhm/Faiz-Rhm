@@ -29,7 +29,7 @@ Flutter | React Native | Dart | Riverpod | BLoC | Firebase | REST APIs | Go | No
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faiz-rhm&show_icons=true" height="150" />
+<img src="https://github-readme-stats.shion.dev/api?username=Faiz-rhm&show_icons=true" height="150" />
 
 ---
 
