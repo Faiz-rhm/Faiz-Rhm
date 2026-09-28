@@ -2,9 +2,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Building **Hamsaya** – social investment app
-- 🚀 Built jobs.af (10k+ DAU), weena.af, Wagey
-- 📱 Flutter & React Native
+- 🔭 Building **Hamsaya** – hyperlocal community marketplace
+- 🚀 Built **jobs.af** (10k+ DAU), **Alifba**, **Driver2B**, **Baran**, and more
+- 📱 Flutter & React Native | AI-Enhanced Product Engineer
 - 🌐 Portfolio: [faizrhm.dev](https://faizrhm.dev/)
 - 📫 faiz199011@gmail.com
 
@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Stack
 
-Flutter | React Native | Riverpod | BLoC | Firebase | REST APIs | Swift | Kotlin | GitHub Actions
+Flutter | React Native | Dart | Riverpod | BLoC | Firebase | REST APIs | Go | Node.js | Swift | Kotlin | GitHub Actions | CI/CD
 
 ---
 
